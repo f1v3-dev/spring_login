@@ -1,4 +1,4 @@
-package hello.login.web.login;
+package hello.login;
 
 import hello.login.web.filter.LogFilter;
 import hello.login.web.filter.LoginCheckFilter;
